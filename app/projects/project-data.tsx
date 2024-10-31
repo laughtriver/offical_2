@@ -18,6 +18,6 @@ export const projects: Project[] = [
     year: 2024,
     description:
       "このプログラムは、pythonによる、パスワード生成プログラムです。こちらをクリックすることでダウンロードが可能です。※pythonがインストールされている環境で実行して下さい",
-    url: "https://drive.google.com/file/d/1QsCeLgVbO97ZBsw93eN4jwKyE08obHbX/view?usp=drive_link",
+    url: "https://drive.google.com/file/d/1QsCeLgVbO97ZBsw93eN4jwKyE08obHbX/view?usp=sharing",
   },
 ];
